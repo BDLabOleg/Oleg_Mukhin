@@ -3,7 +3,7 @@ This is a instruction how to run the files of the project.
 Choose the part of laboratory work to run
 -----------
 
-Click to name of file with labrab - for example: part1.py
+Click to name of file with laboratory work - for example: part1.py
 The window with source code will be open
 
 Open your browser
@@ -14,7 +14,7 @@ In the address line type: https://www.online-python.com/
 Copy/past the code
 -----------
 
-Copy/past the code of labrab to window of online compiler instead of text that was there
+Copy/past the code of laboratory work to window of online compiler instead of text that was there
 
 Click Run key
 -------------
