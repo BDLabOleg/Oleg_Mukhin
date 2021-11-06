@@ -1,41 +1,29 @@
-This directory contains the %VERSION% release of GNU Make.
+This is a instruction how to run the files of the project.
 
-Downloading
+Choose the part of laboratory work to run
 -----------
 
-GNU Make can be obtained in many different ways.  See a description here:
+Click to name of file with labrab - for example: part1.py
+The window with source code will be open
 
-Documentation
+Open your browser
 -------------
 
-GNU make is fully documented in the GNU Make manual, which is contained
+In the address line type: https://www.online-python.com/
 
-Development
+Copy/past the code
 -----------
 
-GNU Make development is hosted by Savannah, the FSF's online development
-management tool.  Savannah is here:
+Copy/past the code of labrab to window instead of text that was there
 
- 
-Bug Reporting
+Click Run key
 -------------
 
-You can send GNU make bug reports to <bug-make@gnu.org>.  Please see the
+The program will be running
 
-Git Access
+Get Results
 ----------
 
-The GNU make source repository is available via Git from the GNU Savannah Git
+Result will be shown in the window below.
 
-System-specific Notes
----------------------
-
-It has been reported that the XLC 1.2 compiler on AIX 3.2 is buggy such
-
-Ports
------
-
-  - See README.customs for details on integrating GNU make with the
-    Customs distributed build environment from the Pmake distribution.
-
- 
+The test cases are integrated to source code
