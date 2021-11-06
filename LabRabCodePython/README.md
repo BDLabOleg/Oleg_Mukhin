@@ -14,7 +14,7 @@ In the address line type: https://www.online-python.com/
 Copy/past the code
 -----------
 
-Copy/past the code of labrab to window instead of text that was there
+Copy/past the code of labrab to window of online compiler instead of text that was there
 
 Click Run key
 -------------
