@@ -1,1 +1,2 @@
-# Please switch to WebAPI
+# Please switch to LabSelenium - Selenuim Lab work, 
+# WebAPI - WebAPI Lab work
