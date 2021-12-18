@@ -29,7 +29,7 @@ data = open('Readme.txt', 'rb').read()
 
 obj = test1();
 response = obj.test_upload (headers,data);
-# assert 'response.status_code == 200', 'Must be 200';
+assert 'response.status_code == 200', 'Must be 200';
 
 # TEST2 data
 
@@ -64,6 +64,6 @@ obj3 = test3();
 response3 = obj3.test_delete (headers,data);
 
 print (response3.status_code)
-# assert response3.status_code == 401
+assert response3.status_code == 401
 
 
