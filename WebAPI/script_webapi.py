@@ -1,6 +1,6 @@
 import requests
 
-# import pytest
+import pytest
 
 class test1():
   def test_upload(self, hdrs, data):
@@ -25,9 +25,10 @@ headers = {
 }
 
 # data = open('c://Users/vadmu/cinema.iml', 'rb').read()
+data = open('Readme.txt', 'rb').read()
 
-# obj = test1();
-# response = obj.test_upload (headers,data);
+obj = test1();
+response = obj.test_upload (headers,data);
 # assert 'response.status_code == 200', 'Must be 200';
 
 # TEST2 data
