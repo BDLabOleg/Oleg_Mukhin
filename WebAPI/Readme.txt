@@ -41,7 +41,7 @@ collected 0 items
 Ошибка:
 
 platform win32 -- Python 3.9.7, pytest-6.2.5, py-1.11.0, pluggy-1.0.0
-rootdir: C:\Users\vadmu\AppData\Local\Programs\Python\Python39\Scripts
+rootdir: C:\Users\oleg\AppData\Local\Programs\Python\Python39\Scripts
 collected 0 items / 1 error
 
 =================================== ERRORS ====================================
