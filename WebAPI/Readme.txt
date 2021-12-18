@@ -106,3 +106,5 @@ webapi_test1.exe, webapi_test2.exe, webapi_test3.exe - исполняемый ф
 PostmanCollection.txt - коллекция pm.test Postman
 
 Все 3 теста загружены и запущены на TeamCity, сфорирован Build c 3 мя тестами и получены успешные runs
+
+http://20.185.254.154:8111/admin/editBuildRunners.html?id=buildType:Ka97_BuildOlegMukhin
