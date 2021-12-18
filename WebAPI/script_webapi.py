@@ -4,8 +4,9 @@ import requests
 
 class test1():
   def test_upload(self, hdrs, data):
-     data = open('c://Users/vadmu/cinema.iml', 'rb').read()
-     return requests.post('https://content.dropboxapi.com/2/files/upload', headers=headers, data=data)
+  #   data = open('c://Users/vadmu/cinema.iml', 'rb').read()
+      data = open('Readme.txt', 'rb').read()
+      return requests.post('https://content.dropboxapi.com/2/files/upload', headers=headers, data=data)
 
 class test2():
   def test_metadata(self, hdrs, data):
