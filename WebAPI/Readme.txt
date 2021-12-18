@@ -105,3 +105,4 @@ sc_web.feature - файл сценария тестировки
 webapi_test1.exe, webapi_test2.exe, webapi_test3.exe - исполняемый файл со скриптом
 PostmanCollection.txt - коллекция pm.test Postman
 
+Все 3 теста загружены и запущены на TeamCity, сфорирован Build и получены успешные runs
