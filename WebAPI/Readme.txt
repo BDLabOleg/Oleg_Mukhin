@@ -103,4 +103,5 @@ webapi_test1.py, webapi_test2.py, webapi_test3.py  - скрипты с тест�
 script_webapi_steps.py - файл c шагами по тестировке
 sc_web.feature - файл сценария тестировки
 webapi_test1.exe, webapi_test2.exe, webapi_test3.exe - исполняемый файл со скриптом
+PostmanCollection.txt - коллекция pm.test Postman
 
